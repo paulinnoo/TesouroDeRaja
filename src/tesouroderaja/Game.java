@@ -9,9 +9,6 @@ public class Game
     private Player player;
     private Scanner scan;   
 
-    /**
-     * Create the game and initialise its internal map.
-     */
     public Game() 
     {
         parser = new Parser();
